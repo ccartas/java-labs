@@ -8,6 +8,7 @@
 - [Setup Java Project]()
 - [LAB01](https://github.com/kenyz0r/JAVA-LABS/tree/master/LAB_01)
 - [LAB02](https://github.com/kenyz0r/JAVA-LABS/tree/master/LAB_02)
+- [LAB02_1](https://github.com/kenyz0r/JAVA-LABS/tree/master/LAB_02_1)
 - [LAB03]()
 - [LAB03]()
 - [LAB04]()
