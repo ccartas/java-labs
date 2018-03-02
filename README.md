@@ -6,7 +6,7 @@
 
 # Content
 - [How to create a new Java Project]()
-- [LAB01]()
+- [LAB01](https://github.com/kenyz0r/JAVA-LABS/tree/master/LAB_01)
 - [LAB02]()
 - [LAB03]()
 - [LAB03]()
