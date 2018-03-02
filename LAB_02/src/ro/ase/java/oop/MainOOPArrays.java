@@ -15,7 +15,6 @@ public class MainOOPArrays {
 		for(int i=0; i<2; i++) {
 			System.out.println("Pretul mediu al unei masini in showroomul " + showrooms[i].getShowroomName() + " este: " + showrooms[i].getAveragePrice());
 		}
-		
 	}
 
 }

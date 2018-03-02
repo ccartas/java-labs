@@ -14,3 +14,6 @@
 # RUN THE PROGRAM
 - `java ro.ase.java.primitives.MainArrays`
 - `java ro.ase.java.oop.MainOOPArrays`
+
+# CREATE `JAR` FROM EXISTING PROJECT
+- `jar cvf ooparrays.jar ro/ase/java/oop/Showroom.class`
