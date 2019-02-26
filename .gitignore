@@ -1,4 +1,3 @@
-.metadata
-.log
-bin
+.metadata/
+bin/
 *.class
