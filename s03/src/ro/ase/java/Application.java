@@ -19,5 +19,11 @@ public class Application {
 		for(double price : prices) {
 			System.out.println(price);
 		}
+		
+		Product p = new Product();
+		p.name = "Iphone";
+		manager.changeProduct(p);
+		System.out.println(p.name);
+		
 	}
 }

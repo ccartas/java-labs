@@ -15,4 +15,8 @@ public class ProductManager {
 			prices[i] = prices[i] + (prices[i] * 0.1);
 		}
 	}
+	
+	public void changeProduct(Product p) {
+		p.name = "CEVA";
+	}
 }
