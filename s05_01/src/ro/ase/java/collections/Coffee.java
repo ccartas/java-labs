@@ -6,7 +6,7 @@ public class Coffee implements Serializable{
 	/**
 	 * 
 	 */
-	private static final long serialVersionUID = 4367593411484918383L;
+	private static final long serialVersionUID = 2L;
 	
 	private String beverageName;
 	private String coffeeType;

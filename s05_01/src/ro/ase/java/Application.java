@@ -39,7 +39,7 @@ public class Application {
 			utils.writeOrderBinary(order, "orders.dat");
 			utils.readOrderBinary("orders.dat");
 			
-			utils.writeOrderSerialize(order, "serialize.txt");
+//			utils.writeOrderSerialize(order, "serialize.txt");
 			
 			try {
 				System.out.println("Deserializare: ");
