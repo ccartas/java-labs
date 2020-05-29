@@ -1,6 +1,0 @@
-Cafe Late,ARABICA,16.5
-Cappuccinno,COLUMBIA,15.0
-Cappuccinno,COLUMBIA,15.0
-Cappuccinno,COLUMBIA,15.0
-Cappuccinno,COLUMBIA,15.0
-Cappuccinno,COLUMBIA,15.0

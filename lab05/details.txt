@@ -1,0 +1,6 @@
+Cappuccino,Costa Rica,15.0
+Cappuccino,Costa Rica,15.0
+Cappuccino,Costa Rica,15.0
+Espresso,Etiopia,12.0
+Flat White,Brasil,13.0
+Flat White,Brasil,13.0
